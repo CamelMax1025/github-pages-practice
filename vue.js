@@ -1,5 +1,5 @@
 // 產品資料格式
-console.clear();
+// console.clear();
 
 const app = {
   data() {
